@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aihtam, I am a programming student
 - 👀 I’m interested in create a lot of games with impact in world of technology
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C, C++ and Java
 - 😄 Pronouns: he
 
 <!---
